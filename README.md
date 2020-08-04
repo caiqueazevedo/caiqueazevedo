@@ -55,7 +55,7 @@
 ## My Work Project
 -->
 
-## Stack
+## ⚡ Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -75,7 +75,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-## Contact
+## 💬 Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-caiquematheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiquematheus/)](https://www.linkedin.com/in/caiquematheus/)
 [![Instagram Badge](https://img.shields.io/badge/-@devcaique-88634A?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/devcaique/)](https://instagram.com/devcaique)

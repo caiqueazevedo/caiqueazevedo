@@ -2,8 +2,8 @@
 
 ## 💻 Open Source Work Stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=caiquematheus&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquematheus&layout=compact&theme=radical)](https://github.com/caiquematheus/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=caiqueazevedo&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiqueazevedo&layout=compact&theme=radical)](https://github.com/caiqueazevedo/github-readme-stats)
 
 <!--
 <details open>

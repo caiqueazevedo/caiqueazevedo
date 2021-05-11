@@ -1,4 +1,4 @@
-# Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=caiquematheus)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=caiquematheus) # Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ## 💻 Open Source Work Stats
 

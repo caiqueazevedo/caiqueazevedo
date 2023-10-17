@@ -1,5 +1,7 @@
  # ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=caiquematheus) Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 ## 💻 Open Source Work Stats
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=caiqueazevedo&show_icons=true&theme=radical)

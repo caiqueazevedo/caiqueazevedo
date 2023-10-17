@@ -76,13 +76,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-## 💬 Contact
-
-[![Linkedin Badge](https://img.shields.io/badge/-caiquematheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiquematheus/)](https://www.linkedin.com/in/caiquematheus/)
-[![Instagram Badge](https://img.shields.io/badge/-@devcaique-88634A?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/devcaique/)](https://instagram.com/devcaique)
-[![Gmail Badge](https://img.shields.io/badge/-dev.caique@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:dev.caique@gmail.com)](mailto:dev.caique@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-+5511955943215-4BCB52?style=flat-square&labelColor=000000&logo=Whatsapp&link=5511955943215)](5511955943215)
-
 <!--
 **CaiqueMatheus/caiquematheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
